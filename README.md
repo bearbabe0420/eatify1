@@ -48,7 +48,9 @@ Persona 3:
 
 ### 1.3 โครงร่างหน้าจอ / Mockup  
 **ใส่รูปภาพ หรือคำอธิบายแต่ละหน้าหลัก 3 หน้า | Attach image or describe 3 main pages**
-
+<img src="App-picture/Main-page.png" alt="Dashboard" width="250">
+<img src="App-picture/Add-menu.png" alt="Add-menu" width="250">
+<img src="App-picture/Stat.png" alt="Stat" width="250">
 ### 1.4 การไหลของผู้ใช้งาน | User Flow  
 
 ![Userflow](App-picture/Userflow.png)
@@ -69,11 +71,11 @@ Persona 3:
 ### 2.2 ฟังก์ชันที่พัฒนา | Features Implemented  
 **Checklist:**
 ```markdown
-- []สุ่มเมนูอาหารในแต่ละมื้อ (เช้า/กลางวัน/เย็น)
-- []เมนูไม่ซ้ำภายใน 3 วัน
-- []เลือกหมวดหมู่อาหารก่อนสุ่มได้
-- []บันทึกเมนูที่รับประทานในแต่ละวัน
-- []แสดงแดชบอร์ดเมนูที่กินบ่อยที่สุด
+- [x]สุ่มเมนูอาหารในแต่ละมื้อ (เช้า/กลางวัน/เย็น)
+- [x]เมนูไม่ซ้ำภายใน 3 วัน
+- [x]เลือกหมวดหมู่อาหารก่อนสุ่มได้
+- [x]บันทึกเมนูที่รับประทานในแต่ละวัน
+- [x]แสดงแดชบอร์ดเมนูที่กินบ่อยที่สุด
 ```
 
 ### 2.3 ภาพหน้าจอแอป | App Screenshots  
