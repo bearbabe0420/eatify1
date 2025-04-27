@@ -2,7 +2,7 @@
 **ชื่อ - นามสกุล (Full Name):** Butsarin Chomchat  
 **รหัสนักศึกษา (Student ID):**  6631503111
 **ชื่อแอป (App Name):**  Entify
-**Framework ที่ใช้ (Framework Used):**  React Native **ลิงก์ GitHub Repository:** [https://github.com/bearbabe0420/Eatify.git]  
+**Framework ที่ใช้ (Framework Used):**  React Native **ลิงก์ GitHub Repository:** [https://github.com/bearbabe0420/eatify1.git]  
 **ลิงก์ไฟล์ติดตั้ง (APK/IPA):** [ใส่ลิงก์ที่นี่ | Insert link here]
 
 ---
@@ -115,10 +115,32 @@ Persona 3:
 ### 5.1 ใช้ AI ช่วยคิดไอเดีย | Idea Generation
 ```markdown
 Prompt ที่ใช้:  
-"Suggest mobile app ideas for students to manage classes and reminders."
+"Suggest mobile app ideas for find meals by time of day."
 
-ผลลัพธ์:  
-ได้ไอเดียแอปจัดตารางเรียนและระบบเตือนอัตโนมัติ
+ผลลัพธ์: Daily Food Randomizer App – Simple and Practical Idea!
+Here are the main features the app should have:
+1. Meal Randomization
+A button to randomly suggest a meal from a pre-set list.
+Display the meal name along with an image (if available).
+2. Food Category Selection (optional but very useful)
+Allow users to choose a category before randomizing, such as:
+One-dish meals
+Thai food
+Made-to-order meals
+Clean eating / Healthy food
+3. Daily Meal Logging
+Record which meals were eaten today and yesterday.
+Display in a small calendar view or a simple daily list.
+4. Add/Delete Meals
+Let users add their own meals to the system.
+Allow setting a name, uploading a picture, and selecting a category.
+5. "Re-Roll" Button
+If users don't like the random suggestion, they can quickly re-roll
+(Optional: prevent suggesting the same meal as the previous one.)
+6. (Optional) Link to Recipes or Cooking Instructions
+Provide a link to YouTube or recipe websites when a meal is selected.
+7. (Optional) Notification Reminders
+Set daily notifications (e.g., at noon or evening) reminding users to randomize their meal. 
 ```
 
 ### 5.2 ใช้ AI ช่วยออกแบบ UI | UI Layout Prompt
