@@ -48,11 +48,12 @@ Persona 3:
 
 ### 1.3 โครงร่างหน้าจอ / Mockup  
 **ใส่รูปภาพ หรือคำอธิบายแต่ละหน้าหลัก 3 หน้า | Attach image or describe 3 main pages**
-```markdown
+
 <img src="App-picture/Main-page.png" alt="Dashboard" width="250">
 <img src="App-picture/Add-menu.png" alt="Add-menu" width="250">
 <img src="App-picture/Stat.png" alt="Stat" width="250">
-```
+---
+
 
 ### 1.4 การไหลของผู้ใช้งาน | User Flow  
 
