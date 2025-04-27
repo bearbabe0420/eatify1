@@ -1,9 +1,9 @@
 # 📱 แบบฟอร์มส่งงานสอบ Take-home | Take-home Assignment Template
-**ชื่อ - นามสกุล (Full Name):** Butsarin Chomchat  
-**รหัสนักศึกษา (Student ID):**  6631503111
-**ชื่อแอป (App Name):**  Entify
-**Framework ที่ใช้ (Framework Used):**  React Native **ลิงก์ GitHub Repository:** [https://github.com/bearbabe0420/eatify1.git]  
-**ลิงก์ไฟล์ติดตั้ง (APK/IPA):** [ใส่ลิงก์ที่นี่ | Insert link here]
+**ชื่อ - นามสกุล (Full Name): Butsarin Chomchat  **
+**รหัสนักศึกษา (Student ID):  6631503111 **
+**ชื่อแอป (App Name):Entify ** 
+**Framework ที่ใช้ (Framework Used): React Native **ลิงก์ GitHub Repository:** [https://github.com/bearbabe0420/eatify1.git] **   
+**ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | ] **
 
 ---
 
