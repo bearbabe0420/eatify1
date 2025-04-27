@@ -59,10 +59,9 @@ Persona 3:
 
 ![Userflow](App-picture/Userflow.png)
 
-```
 
 
-## 2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts)
+### 2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts)
 
 ### 2.1 รายละเอียดการพัฒนา | Development Details  
 **เครื่องมือที่ใช้ / Tools used:**
